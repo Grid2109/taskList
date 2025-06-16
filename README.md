@@ -53,7 +53,7 @@ Este é um projeto de lista de tarefas (To-Do List) desenvolvido com React que p
 
 - Navegação entre rotas
 
-- Consumo de API (simulada ou real)
+- Consumo de API 
 
 - Props e comunicação entre componentes
 
