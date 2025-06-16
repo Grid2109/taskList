@@ -58,3 +58,14 @@ Este é um projeto de lista de tarefas (To-Do List) desenvolvido com React que p
 - Props e comunicação entre componentes
 
 - Estilização com utility-first CSS (Tailwind)
+
+  ![image](https://github.com/user-attachments/assets/b55c7efc-4d85-4640-b758-9f14816da121)
+
+
+  ![image](https://github.com/user-attachments/assets/b380ebac-9b79-4d55-a439-e85c2a665865)
+
+  ![image](https://github.com/user-attachments/assets/d7bba499-e2a2-4ec1-b0a6-2c12bdaf7b42)
+
+
+  
+
